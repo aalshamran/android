@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Riyadh, Saudi Arabia</string>
+    <string name="intro">Riyadh is the capital and most populous city of Saudi Arabia. It is also the capital of Riyadh Province and belongs to the historical regions of Najd and Al-Yamama. It is situated in the center of the Arabian Peninsula on a large plateau and home to more than six million people.</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="museum">Museum</string>
+    <string name="tourism">Tourism</string>
+    <string name="public_places">Public places</string>
+
+    <string name="deerah_souk">Deerah Souk</string>
+    <string name="deerah_souk_about">This is the best place to buy souvenirs for your family and friends back home</string>
+    <string name="sky_bridge_kingdom_center">Sky Bridge at Kingdom Center</string>
+    <string name="sky_bridge_kingdom_center_about">If you want to see Riyadh from up above, this is the best place to be.</string>
+    <string name="the_largest_integrated_farm_World">The Largest Integrated Farm in the World</string>
+    <string name="the_largest_integrated_farm_World_about">Guinness World Record Holder with more than 50,000 Holstein cows.</string>
+    <string name="quad_biking_red_sand_dunes">Quad Biking at the Red Sand Dunes</string>
+    <string name="quad_biking_red_sand_dunes_about">For a quick weekend getaway, head to the Red Sand Dunes.</string>
+    <string name="edge_world">Edge of the World</string>
+    <string name="edge_world_about">Almost 90 km north of Riyadh hides this breathtaking rock formation.</string>
+    <string name="walk_historical_diriyah">A Walk in the Past at the Historical Diriyah</string>
+    <string name="walk_historical_diriyah_about">Old houses made of mud are such a wonderful sight.</string>
+
+    <string name="national_museumActivity">National MuseumActivity</string>
+    <string name="hotspot">Hotspot in Riyadh given its magnificent interior design and superb outer square.</string>
+    <string name="museumActivity">MuseumActivity of Currencies</string>
+    <string name="currencies">Cultural and historical forms of currencies.</string>
+    <string name="masmak">Al-Masmak Historical MuseumActivity</string>
+    <string name="prominent">It occupies a prominent place in the history of the Kingdom.</string>
+    <string name="jazeera">Saqr Al-Jazeera Aviation</string>
+    <string name="affiliated">The museum is affiliated to the Ministry of Defense and Aviation.</string>
+
+    <string name="asmak_resturant">Asmak Resturant</string>
+    <string name="asmak">Asmak Asmak Al Qalzam Resturant serves all kind of seafood</string>
+    <string name="lusin">Lusin Restaurant</string>
+    <string name="food">Lusin Restaurant serves all kinds of food</string>
+    <string name="kudu">Kudu Restaurant</string>
+    <string name="concept">Saudi Arabian Concept Operating since 1988</string>
+    <string name="mooyah">Mooyah Restaurant</string>
+    <string name="sandwiches">Mooyah serves sandwiches</string>
+    <string name="shayah">Shayah Restaurant</string>
+    <string name="arabian">Saudi Arabian Concept, serves sandwiches</string>
+    <string name="faisaliah">Al Faisaliah</string>
+    <string name="serves">Saudi Arabian Concept, serves sandwiches</string>
+
+    <string name="park">King Abdullah Park</string>
+    <string name="interest">10 list of the activities that best suit your interest</string>
+    <string name="national">National Park</string>
+    <string name="fun">fun fun fun fun fun fun...</string>
+    <string name="hanifa">Wadi Hanifa"</string>
+    <string name="riyadh">Wadi Hanifa is a wadi or valley in the Nejd region, Riyadh Province</string>
+
+
+
+
+</resources>

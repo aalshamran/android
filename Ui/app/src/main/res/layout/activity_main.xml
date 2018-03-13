@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="abdulaziz.com.ui.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/business_name"
+        android:textAlignment="center"
+        android:textSize="45sp"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        android:id="@+id/title" />
+
+
+    <TextView
+        android:id="@+id/year"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignLeft="@+id/logo"
+        android:layout_centerVertical="true"
+        android:paddingLeft="15dp"
+        android:textSize="25sp"
+        android:text="2017"
+        android:layout_marginBottom="25dp"
+        android:textColor="@color/colorAccent"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/year"
+        android:paddingLeft="15dp"
+        android:text="summer"/>
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="290dp"
+        android:layout_height="400dp"
+
+        android:src="@drawable/fashion"
+        android:layout_below="@+id/title"
+        android:layout_alignParentRight="true"
+        />
+
+    <TextView
+        android:id="@+id/ad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingLeft="10dp"
+        android:text="Beautiful"
+        android:textColor="@color/colorAccent"
+        android:textStyle="italic"
+        android:layout_below="@+id/year"
+        />
+
+
+    <TextView
+        android:id="@+id/ad2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingLeft="60dp"
+        android:text="and sexy outfits..."
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        android:layout_below="@+id/ad"
+        />
+
+
+    <TextView
+        android:id="@+id/ad3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:paddingLeft="100dp"
+        android:text="All you want and more is here :)"
+        android:textColor="@color/colorAccent"
+        android:textStyle="italic"
+        android:layout_below="@+id/ad2"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_below="@+id/ad3"
+        android:textStyle="bold"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_marginTop="30dp"
+        android:text="Call us now on 123-456-7890"/>
+
+    <TextView
+        android:id="@+id/car_model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:text="Riyadh, Saudi Arabia 11336"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

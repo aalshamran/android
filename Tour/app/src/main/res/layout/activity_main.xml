@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shjo0.city_guide.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/image_height"
+        android:src="@drawable/riyadh"
+        android:scaleType="fitXY"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/intro"
+        android:text="@string/intro"/>
+
+
+    <Button
+        android:id="@+id/tourism"
+        style="@style/MainMenu"
+        android:background="@color/main_menu_light"
+        android:text="@string/tourism" />
+
+    <Button
+        android:id="@+id/museum"
+        style="@style/MainMenu"
+        android:background="@color/colorPrimary"
+        android:text="@string/museum" />
+
+    <Button
+        android:id="@+id/public_places"
+        style="@style/MainMenu"
+        android:background="@color/main_menu_light"
+        android:text="@string/public_places" />
+
+    <Button
+        android:id="@+id/restaurants"
+        style="@style/MainMenu"
+        android:background="@color/colorPrimary"
+        android:text="@string/restaurants" />
+
+</LinearLayout>
+    </ScrollView>

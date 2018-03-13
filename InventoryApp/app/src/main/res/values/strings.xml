@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Product</string>
+    <string name="empty_view_title_text">Add product to the store here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a Product</string>
+    <string name="editor_activity_title_new_produc">Add a Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="product_name">Product name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="browse_image">Product image</string>
+    <string name="add_new_product">Add new products</string>
+    <string name="add_product">Add</string>
+    <string name="image">image/*</string>
+
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="editor_update_product_successful">Product updated</string>
+    <string name="editor_update_product_failed">Error with updating product</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+    <string name="editor_delete_product_successful">Pet deleted</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="product_details">Product details</string>
+    <string name="order_more">Order more</string>
+    <string name="buy">Buy</string>
+
+    <string name="product_mssage_error">Product name must not be empty</string>
+    <string name="price_mssage_error">Price must not be empty</string>
+    <string name="qunatity_mssage_error">Qunatity must not be empty</string>
+    <string name="image_must">Image must be selected...</string>
+    <string name="emailAddress">customer_cate@gmail.com</string>
+    <string name="subject">Order More</string>
+    <string name="sendEmail">Send Email</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="programming_quiz">Android Quiz</string>
+    <string name="one">1-</string>
+    <string name="two">2-</string>
+    <string name="three">3-</string>
+    <string name="four">4-</string>
+    <string name="activityQuestion">What is An Activity?</string>
+    <string name="intentQuestion">What is An Intent?</string>
+    <string name="manifestQuestion">What is An android manifest file?</string>
+    <string name="viewGroupQuestion">What is viewGroup in android?</string>
+    <string name="check_answer">Check your answers</string>
+    <string name="activityClass">Activity performs actions on the screen.</string>
+    <string name="activityClass2">It is a class.</string>
+    <string name="activityClass3">It is an xml fil.</string>
+    <string name="view_group_right_answer">is a collection of views</string>
+    <string name="view_group_wrong_answer">is a set of methods</string>
+</resources>
